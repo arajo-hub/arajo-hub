@@ -12,6 +12,7 @@
 
 ### &#128171; Experience I've deployed
 * Pythonanywhere
+* Heroku
 
 ### &#128161; What I have experienced ...
 * TDD(Test-Driven Development)
