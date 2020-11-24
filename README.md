@@ -1,7 +1,6 @@
 ### &#127756; Programming languages that I can use ...
 * Python
 * Java
-* MySQL
 
 ### &#127959; Frameworks that I can use ...
 * Django
