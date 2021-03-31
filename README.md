@@ -16,7 +16,7 @@
 <br>
 <br>
 <p align="center">현재</p>
-<p align="center"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> 에 관심을 갖고 있고,</p>
+<p align="center"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>와 TDD에 관심을 갖고 있고,</p>
 <p align="center">지금까지 해온 SQL중심의 개발과는 다른, JPA를 공부하고 있습니다.</p>
 <br>
 <br>
