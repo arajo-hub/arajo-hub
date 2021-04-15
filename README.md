@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=250&section=header&text=Ara%20Jo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=250&section=header&text=Ara%20Jo&fontSize=70&animation=twinkling)
 
 <p align="center">🤝 <strong>함께 일하고 싶은 개발자</strong> 가 되고 싶습니다. </p>
 <br>
